@@ -1,5 +1,10 @@
 # `rake-compiler/rake-compiler-dock` Changelog
 
+## 1.5.next / unreleased
+
+* Move Ruby 3.3 support from 3.3.0-rc1 to 3.3.4. Note that the 3.3.0 final release is not usable because of https://bugs.ruby-lang.org/issues/20088.
+
+
 ## 1.5.1 / 2024-06-03
 
 ### Improvements
